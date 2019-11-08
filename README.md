@@ -3,6 +3,6 @@ This is the first file in this repo
 
 ## Ipsum Below
 
-Blah Crap
-
 More shit 
+
+Something new
